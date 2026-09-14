@@ -1,0 +1,15 @@
+{
+  "name": "manager-resource-site",
+  "version": "1.0.0",
+  "description": "Internal manager resource site: gated reference library plus an AI assistant for Q&A and drafting.",
+  "main": "server.js",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
